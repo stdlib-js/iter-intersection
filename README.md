@@ -144,6 +144,22 @@ while ( true ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/iter/intersection-by-hash`][@stdlib/iter/intersection-by-hash]: create an iterator which returns the intersection of two or more iterators according to a hash function.
+-   [`@stdlib/iter/union`][@stdlib/iter/union]: create an iterator which returns the union of two or more iterators.
+-   [`@stdlib/iter/unique`][@stdlib/iter/unique]: create an iterator which returns unique values.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -202,6 +218,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/iter-intersection/main/LICENSE
 
 [mdn-iterator-protocol]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#The_iterator_protocol
+
+<!-- <related-links> -->
+
+[@stdlib/iter/intersection-by-hash]: https://github.com/stdlib-js/iter-intersection-by-hash
+
+[@stdlib/iter/union]: https://github.com/stdlib-js/iter-union
+
+[@stdlib/iter/unique]: https://github.com/stdlib-js/iter-unique
+
+<!-- </related-links> -->
 
 </section>
 
