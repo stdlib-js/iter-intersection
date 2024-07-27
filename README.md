@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterIntersection from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-intersection@deno/mod.js';
+import iterIntersection from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-intersection@v0.2.2-deno/mod.js';
 ```
 
 #### iterIntersection( iter0, ...iterator )
@@ -109,7 +109,7 @@ The returned [iterator][mdn-iterator-protocol] protocol-compliant object has the
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-discrete-uniform@deno/mod.js';
-import iterIntersection from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-intersection@deno/mod.js';
+import iterIntersection from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-intersection@v0.2.2-deno/mod.js';
 
 // Create seeded iterators which can generate 1000 pseudorandom numbers:
 var rand1 = discreteUniform( 1, 10, {
